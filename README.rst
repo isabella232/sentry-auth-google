@@ -1,6 +1,8 @@
 Google Auth for Sentry
 ======================
 
+DEPRECATED: This project now lives in `sentry <https://github.com/getsentry/sentry/tree/master/src/sentry/auth/providers/google>`_.
+
 An SSO provider for Sentry which enables Google Apps authentication.
 
 Install
